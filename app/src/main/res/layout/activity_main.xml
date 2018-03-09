@@ -14,8 +14,7 @@ tools:context="com.example.venka.icecreamorderapp.MainActivity">
     android:hint="Enter Customer Name"
     android:layout_marginTop="16dp"
     android:layout_marginLeft="16dp"
-    android:layout_marginRight="16dp"
-    />
+    android:layout_marginRight="16dp"/>
 
 <TextView
     android:layout_width="wrap_content"
