@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
         int value=Integer.parseInt(q.getText().toString());
         value++;
-        q.setText(String.valueOf(value));
+        q.setText(String.valueOf(value)); 
     }
     public void calculatePrice(View v)
     {
@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
         String t="Ordered "+text+" icecreams";
         String x=orderSummary.getText().toString();
         orderSummary.setText(x+"\n"+t);
+        //github
     }
 
     private void displayTotalPrice() {
