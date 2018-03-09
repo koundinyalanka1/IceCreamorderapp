@@ -22,7 +22,7 @@ tools:context="com.example.venka.icecreamorderapp.MainActivity">
     android:layout_height="wrap_content"
     android:text="Toppings"
     android:textSize="18sp"
-    android:layout_marginTop="16dp"
+    android:layout_marginTop="12dp"
     android:layout_marginLeft="16dp"
     android:id="@+id/id_toppings_text"
     />
