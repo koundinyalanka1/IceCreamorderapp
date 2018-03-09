@@ -20,7 +20,7 @@ tools:context="com.example.venka.icecreamorderapp.MainActivity">
 <TextView
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Toppings"
+    android:text="Fillings"
     android:textSize="18sp"
     android:layout_marginTop="16dp"
     android:layout_marginLeft="16dp"
@@ -33,7 +33,7 @@ tools:context="com.example.venka.icecreamorderapp.MainActivity">
     android:id="@+id/id_chocolate_check"
     android:layout_marginTop="16dp"
     android:layout_marginLeft="16dp"
-    android:text="Chocolate"/>
+    android:text="Queen's toffee"/>
 <CheckBox
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
