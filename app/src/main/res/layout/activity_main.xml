@@ -31,15 +31,15 @@ tools:context="com.example.venka.icecreamorderapp.MainActivity">
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:id="@+id/id_chocolate_check"
-    android:layout_marginTop="16dp"
-    android:layout_marginLeft="16dp"
+    android:layout_marginTop="12dp"
+    android:layout_marginLeft="12dp"
     android:text="Chocolate"/>
 <CheckBox
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:id="@+id/id_dry_fruit_check"
-    android:layout_marginTop="16dp"
-    android:layout_marginLeft="16dp"
+    android:layout_marginTop="12dp"
+    android:layout_marginLeft="12dp"
     android:text="Dry Fruit"/>
 
 <TextView
