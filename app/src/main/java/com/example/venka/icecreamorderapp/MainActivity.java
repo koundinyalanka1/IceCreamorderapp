@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private static final int base_price = 40;
     private static final int chocolate_topping = 15;
-    private static final int dry_fruit_topping = 60;
+    private static final int dry_fruit_topping = 60 ;
 
 
     @Override
@@ -28,8 +28,8 @@ public class MainActivity extends AppCompatActivity {
         in =(Button) findViewById(R.id.id_plus_button);
         de =(Button)findViewById(R.id.id_minus_button);
         order=(Button)findViewById(R.id.id_order_button);
-
-        q=(TextView)findViewById(R.id.id_quantity_value_text);
+        //github
+        q=(TextView)findViewById(R.id.id_quantity_value_text) ;
         orderSummary=(TextView)findViewById(R.id.id_price_value_text);
 
         n= (EditText)findViewById(R.id.id_name_edit);
